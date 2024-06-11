@@ -44,7 +44,7 @@ Download the reference msapp-file in the [Download-folder](downloads).
 
 ![Open App](assets/open_msapp.gif)
 
-To open it in an Environemnt of your choice select `Create -> Dataverse -> Browse` and select the downloaded file.
+To open it in an Environment of your choice select `Create -> Dataverse -> Browse` and select the downloaded file.
 Make sure to save the app once it has loaded
 
 
